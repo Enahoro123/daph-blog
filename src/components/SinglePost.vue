@@ -1,5 +1,5 @@
 <template>
-  <div class="post">
+    <div class="post">
         <!-- <div class="blog-slim-box3 mt-3 pb-4">
             <div class="text-blog-box p-4">
                 <p id="blog-theme" v-for="tag in post.tags" :key="tag">
@@ -29,7 +29,7 @@
             </div>
         </div>
         
-  </div>
+    </div>
 </template>
 
 <script>
